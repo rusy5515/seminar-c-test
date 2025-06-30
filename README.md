@@ -2,6 +2,6 @@
 
 it's announce my favorite food
 
--strawberry
+- strawberry
 - edamame
--mack's  potato
+- mack's potato
